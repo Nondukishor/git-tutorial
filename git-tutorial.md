@@ -80,7 +80,18 @@ git push -u origin master
 git clone (project url) //প্রজেক্ট url মানে এইখানে প্রজেক্ট এর রিমোট বা অনলাইন ডিরেক্টরীতে গেলে clone or download নামে একটি লেখা আছে সেইখানে ক্লিক করলে দেখবেন একটা url পাবেন সেটাকে বুঝানো হয়েছে কপি করে পেস্ট করতে পারেন (project url) লেখাটার জায়গায়।
 ```
 
-এই কমান্ড টা রান করালেই হলো । প্রজেক্ট নেমে যাবে আপনার পিসিতে । তারপর কাজ শেষে আগের মতো 
+এই কমান্ড টা রান করালেই হলো । প্রজেক্ট নেমে যাবে আপনার পিসিতে । তারপর কাজ শেষে আগের মতো । এখানে আগের মতো মানে হলো 
+
+```bash
+step-1
+git add . or git add --all 
+step-2
+git commit -m "your comment what you done write about this"
+step-3 
+নিচে লিখা আছে 
+```
+
+
 
 ```
 git push -u origin master
