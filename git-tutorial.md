@@ -163,4 +163,4 @@ pro.nipu@gmail.com
 
 যেখানে গিয়ে স্টার দিবেন 
 
-<img src="/star.png"/>
+<img src="star.PNG"/>
