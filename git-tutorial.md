@@ -16,7 +16,7 @@
 
 
 
-![Profile](https://github.com/Nondukishor/git-tutorial/blob/master/profile .png)
+![Profile](https://github.com/Nondukishor/git-tutorial/blob/master/profile.png)
 
 
 
